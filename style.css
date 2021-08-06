@@ -9,7 +9,7 @@
 
 main{
     display: flex;
-    height: 40rem;
+    height: 100vh;
     background: linear-gradient(to right, #9373E6, #8367CF);
 
 }
